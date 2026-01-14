@@ -4,3 +4,4 @@ streamlit-audiorecorder
 numpy
 scipy
 pydub
+pyaudioop
